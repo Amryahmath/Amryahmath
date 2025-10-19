@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Currently learning Data Science, Machine Learning, and Artificial Intelligence**
 
-- 📫 How to reach me **amryahmath1@gmail.com**
+- 📫 How to reach me **amryahmath01@gmail.com**
 
 - ⚡ Fun fact **I Think I Am A Fast Learner**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amryahmath" alt="amryahmath" /></a> </p>
