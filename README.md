@@ -342,7 +342,7 @@ Conversational agent that takes a booking request end to end — availability, c
 <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Amryahmath/Amryahmath/output/github-snake.svg" />
 </picture>
 
-<sub><i>Redrawn every 12 hours by a GitHub Action — see <code>.github/workflows/snake.yml</code></i></sub>
+
 
 </div>
 
